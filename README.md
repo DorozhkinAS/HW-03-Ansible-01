@@ -29,11 +29,6 @@
 ![Alt text](https://github.com/DorozhkinAS/HW-03-Ansible-01/blob/main/img/7.png) </br>
 ![Alt text](https://github.com/DorozhkinAS/HW-03-Ansible-01/blob/main/img/8.png) </br>
 
-![Alt text](https://github.com/RuslanArestov/Ansible_Study/blob/master/08-ansible-02-playbook/images/5.2.png) </br>
-![Alt text](https://github.com/RuslanArestov/Ansible_Study/blob/master/08-ansible-02-playbook/images/5.3.png) </br>
-![Alt text](https://github.com/RuslanArestov/Ansible_Study/blob/master/08-ansible-02-playbook/images/6.png) </br>
-![Alt text](https://github.com/RuslanArestov/Ansible_Study/blob/master/08-ansible-02-playbook/images/7.png) </br>
-![Alt text](https://github.com/RuslanArestov/Ansible_Study/blob/master/08-ansible-02-playbook/images/8.png) </br>
 
 ## Описание плейбука
 
